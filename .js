@@ -1,5 +1,5 @@
 function factorial(){
-
+    
     var i, n, fact;
     fact=1;
     n= window.prompt("Enter the number");
